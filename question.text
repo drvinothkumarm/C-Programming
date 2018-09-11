@@ -1,5 +1,10 @@
 Why void is used?
+By efault int is return type
 What is the purpose of using stdio.h
+To use printf function we have to include stdio.h file
 Why main? Is it possible to give any other name?
+Main is the predefine function. We have to use same name
 Why double quote is used?
+It is the way of passing Text information
 What is printf ?
+Printf function is used to print information on the monitor
